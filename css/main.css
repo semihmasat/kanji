@@ -139,6 +139,7 @@ body {
 }
 
 .kanji-row {
+  margin: 10px 0px;
   max-width: 980px;
   float: left;
 }
@@ -161,8 +162,8 @@ body {
 
 #content.handwriting .kanji-box {
   font-family: Mitimasu;
-  font-size: 85px;
-  line-height: 95px;
+  font-size: 55px;
+  line-height: 60px;
 }
 
 #content.stroke-order .kanji-box {
@@ -172,8 +173,8 @@ body {
 
 #content .kanji-box {
     margin: 0 5px 5px 0;
-    width: 96px;
-    height: 96px;
+    width: 60px;
+    height: 60px;
     border: 1px solid #000;
     box-sizing: border-box;
     float: left;
